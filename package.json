@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lennertderyck/err.lennertderyck.be#readme",
   "dependencies": {
+    "airtable": "^0.10.0",
     "express": "^4.17.1"
   }
 }
